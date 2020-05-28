@@ -1,0 +1,7 @@
+---
+layout: example.html
+
+color: blue
+number: 5
+animal: dog
+---
